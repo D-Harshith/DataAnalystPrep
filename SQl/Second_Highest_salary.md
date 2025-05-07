@@ -30,6 +30,6 @@ SELECT
         OFFSET 1 LIMIT 1
     ) AS SecondHighestSalary;
 ```
-Oddset: the OFFSET clause is used to skip a specified number of rows at the beginning of a result set before starting to return data
+Offset: the OFFSET clause is used to skip a specified number of rows at the beginning of a result set before starting to return data
 
-Last visited: 4/30/25
+Last visited: 5/7/25

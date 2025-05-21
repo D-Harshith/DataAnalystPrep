@@ -6,8 +6,6 @@ Category: String, Sliding window
 
 Difficulty: Medium
 
-### New data structure: Count array/count sort
-
 Problem Description: Given a string s, find the length of the longest substring without duplicate characters.
 
 Solution Logic: 
